@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Design Patterns com Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab-padroes-projeto-spring-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lab-padroes-projeto-java-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
